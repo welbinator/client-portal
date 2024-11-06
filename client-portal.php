@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: MemberDash - Client Portal
+Plugin Name: Client Portal
 Plugin URI: https://apexbranding.design
 Description: A plugin to create a client portal with a custom user role.
 Version: 1.0
